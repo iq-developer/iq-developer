@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iq-developer
 - 👀 I’m interested in Frontend (React) development
-- 🌱 I’m currently learning MUI5
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on React development
 - 📫 How to reach me: telegram https://t.me/iq_development
 
