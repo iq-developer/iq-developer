@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @iq-developer
-- 👀 I’m interested in Frontend (React) development
-- 🌱 I’m currently improve my knowledge of Next.js
-- 💞️ I’m looking to collaborate on React development
+- 👀 My portfolio: https://github.com/iq-developer/portfolio
 - 📫 How to reach me: telegram https://t.me/iq_development
 
 <!---
